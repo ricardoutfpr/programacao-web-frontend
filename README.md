@@ -1,6 +1,9 @@
 # Documentação do Projeto
 
 
+## Integrantes da Equipe
+Luiz Henrique Galhardo e Ricardo França
+
 ## Nome do Projeto
 Doçura & Arte Confeitaria (projeto voltado para a confeitaria da tia do aluno Luiz Henrique Galhardo)
 
